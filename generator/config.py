@@ -9,7 +9,7 @@ EMAIL = "omnicommercialrefrigeration@gmail.com"
 
 # Web3Forms access key: get it free at https://web3forms.com (enter the email above,
 # the key arrives by email). Paste it here and rebuild. Requests go to EMAIL.
-WEB3FORMS_ACCESS_KEY = "YOUR-WEB3FORMS-ACCESS-KEY"
+WEB3FORMS_ACCESS_KEY = "291c5ae2-2e02-47d7-9648-8743d86a51b6"
 
 # Google Analytics 4 measurement ID (e.g. "G-XXXXXXX"). Leave blank to disable.
 GA4_ID = ""
